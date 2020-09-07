@@ -1,2 +1,1 @@
-# LU_ML
-AI/ML 
+Notebooks for learning ML/AI
